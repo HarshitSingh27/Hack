@@ -1,6 +1,8 @@
 body
 {
     background-image: url(Ford_Mustang-212184.jpg!d);
+    background-repeat:no repeat;
+    background-size:cover;
 }
     .form-2
 {
